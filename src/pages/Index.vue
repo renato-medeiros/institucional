@@ -8,8 +8,8 @@
       </parallax>
       <div class="container">
         <div class="content-center brand">
-          <img class="n-logo" src="img/white_logo_transparent_background.png" width="400px" alt="" />
-          <h3>Uma consultoria de TI, inteligente!</h3>
+          <img class="n-logo" src="img/white_logo_transparent_background.png" width="300px" alt="" />
+          <h3>Uma consultoria de TI inteligente!</h3>
         </div>
       </div>
     </div>
