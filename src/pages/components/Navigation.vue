@@ -212,7 +212,7 @@
         <!-- Navbar Warning -->
         <navbar type="warning" menu-classes="ml-auto">
           <div class="navbar-translate">
-            <a class="navbar-brand" href="#">Success Color</a>
+            <a class="navbar-brand" href="#">Warning Color</a>
             <button
               class="navbar-toggler"
               type="button"
