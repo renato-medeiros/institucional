@@ -8,5 +8,11 @@
   </div>
 </template>
 <script>
-export default {};
+import { components } from 'aws-amplify-vue'
+export default {
+  name: 'app', 
+  components: {
+    ...components
+  }
+};
 </script>
